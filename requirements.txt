@@ -2,4 +2,3 @@ pandas
 streamlit
 py-avataaars==1.0.2
 base58==2.0.1
-libcairo2
