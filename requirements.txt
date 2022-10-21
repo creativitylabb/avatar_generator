@@ -1,0 +1,3 @@
+pandas
+streamlit
+py_avataaars
