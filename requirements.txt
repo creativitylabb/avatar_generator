@@ -1,5 +1,4 @@
 pandas
 streamlit
 py_avataaars
-gi-cairo 
 gir1.2-gtk-3.0
