@@ -1,4 +1,4 @@
 pandas
 streamlit
-py_avataaars
-gir1.2-gtk-3.0
+py-avataaars==1.0.2
+base58==2.0.1
